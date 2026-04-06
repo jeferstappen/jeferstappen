@@ -6,7 +6,7 @@
 <a href="https://twitter.com/yfelpzk1" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yfelpzk1" height="30" width="40" />
 </a>
-<a href="https://instagram.com/j3f3rnando" target="blank">
+<a href="https://www.instagram.com/j3fernando" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j3f3rnando" height="30" width="40" />
 </a>
 <a href="https://www.linkedin.com/in/jeferson-fernando-88a7623a0/" target="blank">
