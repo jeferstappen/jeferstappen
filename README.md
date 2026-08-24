@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeferson</h1>
-<h3 align="center">Um estudante de programação de Birigui apaixonado por Automobilismo e Jogos</h3>
+<h3 align="center">Um estudante de programação de Birigui fã de Automobilismo e Jogos</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
